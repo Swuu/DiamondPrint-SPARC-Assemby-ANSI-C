@@ -1,9 +1,9 @@
 /*
  * Filename: testisOdd.c
  * Author: Jon Ho
- * Userid: cs30xbn
+ * 
  * Description: Unit test program to test the function isOdd.
- * Date: Oct. 14 2013
+ *  
  * Sources of Help: Lecture and reference sheets, pa1.pdf.
  */
 

@@ -1,11 +1,11 @@
 /*
  * Filename: displayDiamond.s
  * Author: Jon Ho
- * Userid: cs30xbn
+ * 
  * Description: SPARC Assembly routine to print a diamond pattern with
  *              different ASCII characters ranging from 32 - 126.
  *              Called from main()
- * Date: Oct. 14 2013
+ *  
  * Sources of Help: Lecture and reference sheets
  */
 

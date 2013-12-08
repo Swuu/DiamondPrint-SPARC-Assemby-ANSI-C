@@ -1,11 +1,11 @@
 /*
  * Filename: isOdd.s
  * Author: Jon Ho
- * Userid: cs30xbn
+ * 
  * Description: This is a SPARC assembly routine to check if an integer
  *              is odd.
  *              Called from main()
- * Date: Oct. 14 2013
+ *  
  * Sources of Help: Lecture and course book
  */
 

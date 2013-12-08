@@ -1,13 +1,13 @@
 /*
  * Filename: strToLong.c
  * Author: Jon Ho
- * Userid: cs30xbn
+ * 
  * Description: This is a C routine to convert command line args to long
  *              type with the base provided in the parameter. This routine
  *              will also do error checking and error reporting if parameter
  *              cannot be converted.
  *              Called from main()
- * Date: Oct. 14, 2013
+ *  
  * Sources of Help: Lecture and reference sheets
  */
 

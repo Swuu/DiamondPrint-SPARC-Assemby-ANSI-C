@@ -3,7 +3,7 @@
  * Author: Joe Jane Student
  * Userid: cs30xXX
  * Description: Unit test program to test the function checkRange.
- * Date: Jan. 1, 1970
+ *  Jan. 1, 1970
  * Sources of Help: List all the people, books, websites, etc. that you
  *                  used to help you write the code in this source file.
  */ 

@@ -1,10 +1,10 @@
 /*
  * Filename: printChar.s
  * Author: Jon Ho
- * Userid: cs30xbn
+ * 
  * Description: SPARC Assembly routine to print a character at a time.
  *              Called from displayDiamond()
- * Date: Oct. 14 2013
+ *  
  * Sources of Help: Lecture reference sheets
  */
 

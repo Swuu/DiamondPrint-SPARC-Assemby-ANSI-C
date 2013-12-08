@@ -1,10 +1,10 @@
 /*
  * Filename: checkRange.s
  * Author: Jon Ho
- * Userid: cs30xbn
+ * 
  * Description: SPARC Assembly routine to check if the arg is within the range.
  * 		Called from main() and displayX
- * Date: Oct. 14, 2013
+ *  
  * Sources of Help: Lecture and reference sheet
  */
 

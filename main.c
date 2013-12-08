@@ -1,7 +1,7 @@
 /*
  * Filename: main.c
  * Author: Jon Ho
- * Userid: cs30xbn
+ * 
  * Description: This is the driver of the program. This program will take in
  *              command line arguments and make function calls using them as
  *              arguments. The result of this program is to print out a
@@ -9,7 +9,7 @@
  *              32 to 126. If the arguments aren't valid then errors will be 
  *              printed out to the user, and the usage will be explained 
  *              to the user.
- * Date: Oct. 14 2013
+ *  
  * Sources of Help: Lecture and reference sheets
  */
 
